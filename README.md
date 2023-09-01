@@ -21,9 +21,7 @@ README updated: <i>Sep-01-2023</i>
 
 ## `VariantAnnotation`: Annotation of Genetic Variants
 
-### Annotate variants, compute amino acid coding changes,
-
-predict coding outcomes.
+### Annotate variants, compute amino acid coding changes,predict coding outcomes.
 
 If you use `VariantAnnotation`, please cite:
 
